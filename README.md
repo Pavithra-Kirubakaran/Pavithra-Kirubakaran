@@ -15,6 +15,7 @@ Statistical Analysis: Hypothesis testing, Regression Analysis
 SASTRA DEEMED TO BE UNIVERSITY
 Degree in MSc Data Science
 Graduation Year: 2025
+
 Christ college of Science and Management
 Degree in BSc[PMCs]
 Graduation Year: 2022
